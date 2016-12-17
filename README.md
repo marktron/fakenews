@@ -12,4 +12,4 @@ Where to find your hosts file:
 - Windows: `%SystemRoot%\system32\drivers\etc\hosts`
 
 ## Improvements
-I built this list mostly by grabbing bits and pieces from various sources complied after the Nov 2016 U.S. elections, so this list is by no means complete yet. Please submit pull requests with additions and corrections.
+I built this list mostly by grabbing bits and pieces from various sources compiled after the Nov 2016 U.S. elections, so this list is by no means complete yet. Please submit pull requests with additions and corrections.
