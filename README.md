@@ -1,11 +1,11 @@
-# fakenews
+# 🙈 fakenews
 An in-progress collection of fake news sites.
 
 ## Purpose
-This is a small attempt to limit my access to sites that generally fall under the umbrella of “fake news.” It blocks sites that willfully spread clickbait, hoaxes, propaganda and disinformation. The criteria is admittedly fairly loose.
+This is a small attempt to limit my exposure to sites that fall under the umbrella of “fake news.” It blocks sites that willfully spread clickbait, hoaxes, propaganda and disinformation.
 
 ## Usage
-This file is formatted as a standard [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)), so you can simply append it to your current hosts file. I recommend using it with @StevenBlack’s [hosts file tool](https://github.com/StevenBlack/hosts), which lets you easily build a robust hosts file from a variety of sources.
+This file is formatted as a standard [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)), so you can simply append it to your current hosts file. I recommend using it with @StevenBlack’s [hosts file tool](https://github.com/StevenBlack/hosts), which lets you build a robust hosts file from a variety of frequently updated sources.
 
 Where to find your hosts file:
 - Mac OS, Linux: `/etc/hosts`
