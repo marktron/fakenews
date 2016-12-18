@@ -1,5 +1,5 @@
 # 🙈 fakenews
-An in-progress collection of fake news outlets. Currently blocking 472 untrustworthy sites.
+An in-progress collection of fake news outlets. Currently blocking 519 untrustworthy sites.
 
 ## Purpose
 This is a small attempt to limit my exposure to sites that fall under the umbrella of “fake news.” It blocks sites that willfully spread clickbait, hoaxes, propaganda and disinformation.
@@ -12,4 +12,4 @@ Where to find your hosts file:
 - Windows: `%SystemRoot%\system32\drivers\etc\hosts`
 
 ## Improvements
-I built this list mostly by grabbing bits and pieces from various sources compiled after the Nov 2016 U.S. elections, so this list is by no means complete yet. Please submit pull requests with additions and corrections.
+I built this file mostly by grabbing bits and pieces from various sources compiled after the Nov 2016 U.S. elections, so this list is by no means complete yet. Please submit pull requests with additions and corrections.
