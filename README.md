@@ -1,5 +1,5 @@
 # 🙈 fakenews
-An in-progress collection of fake news outlets. Currently blocking 668 untrustworthy sites.
+An in-progress collection of fake news outlets. Currently blocking 945 untrustworthy sites.
 
 ## Purpose
 This is a small attempt to limit my exposure to sites that fall under the umbrella of “fake news.” It blocks sites that willfully and regularly spread clickbait, hoaxes, propaganda and disinformation.
